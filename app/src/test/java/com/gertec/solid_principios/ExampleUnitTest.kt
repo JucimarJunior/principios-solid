@@ -1,4 +1,4 @@
-package com.gertec.myapplication
+package com.gertec.solid_principios
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.gertec.myapplication
+package com.gertec.solid_principios
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
